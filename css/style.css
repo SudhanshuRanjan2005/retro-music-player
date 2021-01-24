@@ -117,3 +117,10 @@ img {
         transform: rotate(360deg);
     }
 }
+
+/* progress style start  */
+
+.progress-container {
+    width: 100%;
+    height: auto;
+}
